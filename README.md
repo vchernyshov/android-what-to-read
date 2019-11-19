@@ -40,4 +40,4 @@ Architecture:
 https://www.youtube.com/watch?v=L634o_Rjly0 (MVC, MVP and co.).  
 
 DB:  
-https://www.youtube.com/watch?v=c4_5rqvmDFU (the most interesting viedo about DB)
+https://www.youtube.com/watch?v=c4_5rqvmDFU (the most interesting video about DB)
